@@ -1,0 +1,15 @@
+{
+  "name": "pleasant-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A high-contrast and vivid syntax theme mixing warm and cool colors.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/SingularityAzure/pleasant-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
